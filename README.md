@@ -37,10 +37,10 @@ Mon but ultime: être freelance full-stack 💙
 
 
 📬 𝐏𝐨𝐮𝐫 𝐦’𝐞𝐧𝐯𝐨𝐲𝐞𝐫 𝐮𝐧 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 (o̵u̵̶̵ ̵̶̵d̵e̵s̵ ̵̶̵c̵̶̵o̵̶̵o̵̶̵k̵̶̵i̵̶̵e̵̶̵s̵  ->surtout pas, j'essaie de bien manger!) :
-Email : marielaurehanriot@gmail.com
-LinkedIn : https://www.linkedin.com/in/mlhanriot/
-Github : vous êtes déja dessus 🤭
-Mon ancien portfolio datant d'avant ma formation à l'ENI : https://marielaurehanriot.fr
+Email : marielaurehanriot@gmail.com <br>
+LinkedIn : https://www.linkedin.com/in/mlhanriot/<br>
+Github : vous êtes déja dessus 🤭<br>
+Mon ancien portfolio datant d'avant ma formation à l'ENI : https://marielaurehanriot.fr<br>
 Slogan (de timodeu) : "Programmeur : Une machine qui transforme le café en code.” Dommage, je ne bois pas de café! 😄
 
 
