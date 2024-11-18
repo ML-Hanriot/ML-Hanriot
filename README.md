@@ -1,6 +1,6 @@
 
 
-𝐒𝐚𝐥𝐮𝐭, 𝐦𝐨𝐢 𝐜'𝐞𝐬𝐭 𝐌𝐚𝐫𝐢𝐞 𝐋𝐚𝐮𝐫𝐞 👋 (She/Her)
+𝐒𝐚𝐥𝐮𝐭, 𝐦𝐨𝐢 𝐜'𝐞𝐬𝐭 𝐌𝐚𝐫𝐢𝐞 𝐋𝐚𝐮𝐫𝐞 👋
 
 Développeuse en devenir, je viens de finir une formation de 6 mois avec l'école ENI (développeur web et web mobile).
 Je suis actuellement en stage de deux mois suite à cette formation, mais également déjà en quête d’une alternance pour poursuivre ma reconversion et passer un titre professionnel de Concepteur Développeur d’Applications (Bac + 4), le tout pour m'améliorer, gagner en autonomie et explorer des domaines non abordés durant ma formation.
