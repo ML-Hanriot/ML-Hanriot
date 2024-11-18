@@ -32,7 +32,7 @@ Autre outil de geek: une PS4 🎮, et quelques jeux Steam 👌.
 
 🎯 𝐌𝐨𝐧 𝐨𝐛𝐣𝐞𝐜𝐭𝐢𝐟 𝐝𝐚𝐧𝐬 𝐥𝐚 𝐯𝐢𝐞 :
 A l'heure actuelle, être plus à l'aise dans le code, dans mes recherches de solutions, dans mes prompts à nos amis les IA.
-Mon but ultime: être freelance full-stack 💙
+Mon but ultime: être développeuse full-stack 💙
 
 
 
