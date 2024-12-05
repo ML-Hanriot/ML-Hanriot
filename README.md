@@ -26,7 +26,7 @@ Bases de données : MySQL, MongoDB<br>
 
 Superpouvoirs bonus : Git et Github (parce que surtout en tant que débutant il est important de ne pas perdre un code fonctionnel, c'est comme perdre ses clés et oublier l'adresse de chez soi 😅).
 
-Autre outil de geek: une PS4 🎮, et quelques jeux Steam 👌.
+Autre outil de geek: une PS4 🎮, et quelques jeux Steam et le game pass 👌.
 
 
 
