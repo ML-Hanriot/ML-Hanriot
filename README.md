@@ -11,9 +11,11 @@ N'hésitez donc pas à partager mon profil si vous connaissez une entreprise pou
 🚀 𝐌𝐨𝐧 𝐬𝐮𝐩𝐞𝐫-𝐩𝐨𝐮𝐯𝐨𝐢𝐫 : ne jamais lâcher l’affaire, même si je ne cherche pas toujours dans la bonne direction.
 
 
-🛠️ 𝐂𝐞 𝐪𝐮𝐞 𝐣𝐞 𝐟𝐚𝐛𝐫𝐢𝐪𝐮𝐞 𝐝𝐚𝐧𝐬 𝐦𝐨𝐧 𝐥𝐚𝐛𝐨 (aka mon super PC et mes 2 indispensables écrans) :
+🛠️ 𝐂𝐞 𝐪𝐮𝐞 𝐣𝐞 𝐟𝐚𝐛𝐫𝐢𝐪𝐮𝐞 𝐝𝐚𝐧𝐬 𝐦𝐨𝐧 𝐥𝐚𝐛𝐨 (aka mon super PC et mes 3 indispensables écrans) :
   - En stage de 2 mois, je travaille sur une application Symfony PWA révolutionnaire dédiée au développement personnel. C'est un projet ambitieux et très complet qui a le potentiel d'aider de nombreuses personnes (je ne peux rien en dire de plus, j'ai signé un accord de non-divulgation 😇😋).
+  - Actuellement en attente du résultat de l'examen passé le 20/02/2025
   - Bientôt un nouveau portfolio basé sur l’architecture MVC, où je compte montrer tout ce que je sais faire, en utilisant Symfony, Twig et Tailwind.
+  - Et d'autres projets plein la tête 🧐
 
     
 🧰 𝐌𝐚 𝐛𝐨𝐢̂𝐭𝐞 𝐚̀ 𝐨𝐮𝐭𝐢𝐥𝐬 𝐝𝐞 𝐠𝐞𝐞𝐤 :
